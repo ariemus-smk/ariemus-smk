@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning nodeJS
 - 💞️ I’m looking to collaborate on your project
 - 📫 How to reach me ariemusbandi@smkn1tebas.sch.id
-- 😄 Pronouns: ya
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'am a teacher
 
 <!---
